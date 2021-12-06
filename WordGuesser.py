@@ -98,7 +98,7 @@ window.geometry('255x200')
 textbox = tkinter.Entry()
 textbox.place(x=40,y=20)
 
-textlabel = tkinter.Label(text="Het woord moet tussen die 4 en 7 letters zitten.")
+textlabel = tkinter.Label(text="Het woord moet tussen de 4 en 7 letters zitten.")
 textlabel.pack(ipadx=20,ipady=20)
 textlabel.place(y=50,x=0)
 
